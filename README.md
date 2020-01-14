@@ -38,7 +38,7 @@ The objective of this exercise is to make a single web application with the foll
 To run this project, install it locally using npm:
 
 ```
-$ cd ../hone_capital_challenge
+$ cd ../30-Day-Bitcoin-Price-Chart
 $ npm install
 $ npm run start-dev
 ```
