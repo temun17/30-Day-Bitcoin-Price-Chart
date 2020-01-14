@@ -1,0 +1,9 @@
+.search {
+  margin: 10px;
+}
+
+@media only screen and (max-width: 700px) {
+  .searchBox {
+    padding: 0.1rem !important;
+  }
+}
