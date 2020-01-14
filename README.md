@@ -35,6 +35,8 @@ The objective of this exercise is to make a single web application with the foll
 
 - Node allows us to run Javascript outside of the browser.
 
+- Clone repository in terminal using (git clone https://github.com/temun17/30-Day-Bitcoin-Price-Chart.git)
+
 To run this project, install it locally using npm:
 
 ```
