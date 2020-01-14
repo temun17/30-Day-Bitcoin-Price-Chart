@@ -1,4 +1,4 @@
-## Hone Capital Coding Challenge
+## 30 Day Bitcoin Price Chart
 
 The objective of this exercise is to make a single web application with the following base requirements.
 
